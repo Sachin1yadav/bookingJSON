@@ -17,6 +17,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"399",
       "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -58,9 +59,10 @@
       "number": "02",
       "start": "delhi",
       "destination": "mumbai",
-      "ac": true,
+      "ac": false,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"299",
       "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -105,6 +107,7 @@
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "price":"399",
       "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
@@ -125,6 +128,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"409",
       "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -166,9 +170,10 @@
       "number": "05",
       "start": "delhi",
       "destination": "mumbai",
-      "ac": true,
+      "ac": false,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"399",
       "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -213,6 +218,7 @@
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "price":"689",
       "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
@@ -233,6 +239,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"424",
       "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -274,9 +281,10 @@
       "number": "08",
       "start": "delhi",
       "destination": "mumbai",
-      "ac": true,
+      "ac": false,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"421",
       "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -297,7 +305,7 @@
         { "num": 16, "isBooked": true },
          { "num": 17, "isBooked": false },
         { "num": 18, "isBooked": true },
-        { "num": 19, "isBooked": true },
+        { "num": 19, "isBooked": false },
         { "num": 20, "isBooked": false },
         { "num": 21, "isBooked": true },
         { "num": 22, "isBooked": true },
@@ -321,6 +329,7 @@
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "price":"567",
       "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
@@ -338,9 +347,10 @@
       "number": "010",
       "start": "varansi",
       "destination": "jaipur",
-      "ac": true,
+      "ac": false,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"653",
       "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -385,6 +395,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"789",
       "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -426,9 +437,10 @@
       "number": "012",
       "start": "jaipur",
       "destination": "delhi",
-      "ac": true,
+      "ac": false,
       "date": "03/07/2023",
       "duration": "4hr",
+      "price":"432",
       "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
@@ -449,6 +461,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"896",
       "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -490,9 +503,10 @@
       "number": "014",
       "start": "delhi",
       "destination": "mumbai",
-      "ac": true,
+      "ac": false,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"399",
       "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -537,6 +551,7 @@
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "price":"399",
       "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
@@ -554,9 +569,10 @@
       "number": "016",
       "start": "varansi",
       "destination": "jaipur",
-      "ac": true,
+      "ac": false,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"543",
       "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -601,6 +617,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"867",
       "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -642,9 +659,10 @@
       "number": "018",
       "start": "jaipur",
       "destination": "delhi",
-      "ac": true,
+      "ac": false,
       "date": "03/07/2023",
       "duration": "4hr",
+      "price":"123",
       "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
@@ -665,6 +683,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"432",
       "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -709,6 +728,7 @@
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "price":"399",
       "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
@@ -753,6 +773,7 @@
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "price":"323",
       "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
