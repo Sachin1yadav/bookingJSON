@@ -10,12 +10,14 @@
   ],
   "bus": [
     {
+      "id": 1,
       "number": "01",
       "start": "varansi",
       "destination": "jaipur",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -28,12 +30,14 @@
       ]
     },
     {
+      "id": 2,
       "number": "02",
       "start": "delhi",
       "destination": "mumbai",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -46,12 +50,14 @@
       ]
     },
     {
+      "id": 3,
       "number": "03",
       "start": "jaipur",
       "destination": "delhi",
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
         { "num": 2, "isBooked": false },
@@ -64,30 +70,14 @@
       ]
     },
     {
+      "id": 4,
       "number": "04",
-      "start": "mumbai",
-      "destination": "ahmedabad",
-      "ac": false,
-      "date": "04/07/2023",
-      "duration": "5hr",
-      "seats": [
-        { "num": 1, "isBooked": false },
-        { "num": 2, "isBooked": true },
-        { "num": 3, "isBooked": true },
-        { "num": 4, "isBooked": false },
-        { "num": 5, "isBooked": true },
-        { "num": 6, "isBooked": true },
-        { "num": 7, "isBooked": false },
-        { "num": 8, "isBooked": true }
-      ]
-    },
-    {
-      "number": "01",
       "start": "varansi",
       "destination": "jaipur",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -100,12 +90,14 @@
       ]
     },
     {
-      "number": "02",
+      "id": 5,
+      "number": "05",
       "start": "delhi",
       "destination": "mumbai",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -118,12 +110,14 @@
       ]
     },
     {
-      "number": "03",
+      "id": 6,
+      "number": "06",
       "start": "jaipur",
       "destination": "delhi",
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
         { "num": 2, "isBooked": false },
@@ -136,30 +130,14 @@
       ]
     },
     {
-      "number": "04",
-      "start": "mumbai",
-      "destination": "ahmedabad",
-      "ac": false,
-      "date": "04/07/2023",
-      "duration": "5hr",
-      "seats": [
-        { "num": 1, "isBooked": false },
-        { "num": 2, "isBooked": true },
-        { "num": 3, "isBooked": true },
-        { "num": 4, "isBooked": false },
-        { "num": 5, "isBooked": true },
-        { "num": 6, "isBooked": true },
-        { "num": 7, "isBooked": false },
-        { "num": 8, "isBooked": true }
-      ]
-    },
-    {
-      "number": "01",
+      "id": 7,
+      "number": "07",
       "start": "varansi",
       "destination": "jaipur",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -172,12 +150,14 @@
       ]
     },
     {
-      "number": "02",
+      "id": 8,
+      "number": "08",
       "start": "delhi",
       "destination": "mumbai",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -190,12 +170,14 @@
       ]
     },
     {
+      "id": 9,
       "number": "09",
       "start": "jaipur",
       "destination": "delhi",
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
         { "num": 2, "isBooked": false },
@@ -208,30 +190,14 @@
       ]
     },
     {
-      "number": "10",
-      "start": "mumbai",
-      "destination": "ahmedabad",
-      "ac": false,
-      "date": "04/07/2023",
-      "duration": "5hr",
-      "seats": [
-        { "num": 1, "isBooked": false },
-        { "num": 2, "isBooked": true },
-        { "num": 3, "isBooked": true },
-        { "num": 4, "isBooked": false },
-        { "num": 5, "isBooked": true },
-        { "num": 6, "isBooked": true },
-        { "num": 7, "isBooked": false },
-        { "num": 8, "isBooked": true }
-      ]
-    },
-    {
-      "number": "11",
+      "id": 10,
+      "number": "010",
       "start": "varansi",
       "destination": "jaipur",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -244,12 +210,14 @@
       ]
     },
     {
-      "number": "12",
+      "id": 11,
+      "number": "011",
       "start": "delhi",
       "destination": "mumbai",
       "ac": true,
       "date": "02/07/2023",
       "duration": "3hr",
+      "image": "https://example.com/bus2.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -262,12 +230,14 @@
       ]
     },
     {
-      "number": "13",
+      "id": 12,
+      "number": "012",
       "start": "jaipur",
       "destination": "delhi",
       "ac": true,
       "date": "03/07/2023",
       "duration": "4hr",
+      "image": "https://example.com/bus3.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
         { "num": 2, "isBooked": false },
@@ -280,12 +250,14 @@
       ]
     },
     {
-      "number": "14",
-      "start": "mumbai",
-      "destination": "ahmedabad",
-      "ac": false,
-      "date": "04/07/2023",
-      "duration": "5hr",
+      "id": 13,
+      "number": "013",
+      "start": "varansi",
+      "destination": "jaipur",
+      "ac": true,
+      "date": "02/07/2023",
+      "duration": "3hr",
+      "image": "https://example.com/bus1.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -296,6 +268,166 @@
         { "num": 7, "isBooked": false },
         { "num": 8, "isBooked": true }
       ]
-    }
+    },
+    {
+      "id": 14,
+      "number": "014",
+      "start": "delhi",
+      "destination": "mumbai",
+      "ac": true,
+      "date": "02/07/2023",
+      "duration": "3hr",
+      "image": "https://example.com/bus2.jpg",
+      "seats": [
+        { "num": 1, "isBooked": false },
+        { "num": 2, "isBooked": true },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": false },
+        { "num": 5, "isBooked": true },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": false },
+        { "num": 8, "isBooked": true }
+      ]
+    },
+    {
+      "id": 15,
+      "number": "015",
+      "start": "jaipur",
+      "destination": "delhi",
+      "ac": true,
+      "date": "03/07/2023",
+      "duration": "4hr",
+      "image": "https://example.com/bus3.jpg",
+      "seats": [
+        { "num": 1, "isBooked": true },
+        { "num": 2, "isBooked": false },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": true },
+        { "num": 5, "isBooked": false },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": true },
+        { "num": 8, "isBooked": false }
+      ]
+    },
+    {
+      "id": 16,
+      "number": "016",
+      "start": "varansi",
+      "destination": "jaipur",
+      "ac": true,
+      "date": "02/07/2023",
+      "duration": "3hr",
+      "image": "https://example.com/bus1.jpg",
+      "seats": [
+        { "num": 1, "isBooked": false },
+        { "num": 2, "isBooked": true },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": false },
+        { "num": 5, "isBooked": true },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": false },
+        { "num": 8, "isBooked": true }
+      ]
+    },
+    {
+      "id": 17,
+      "number": "017",
+      "start": "delhi",
+      "destination": "mumbai",
+      "ac": true,
+      "date": "02/07/2023",
+      "duration": "3hr",
+      "image": "https://example.com/bus2.jpg",
+      "seats": [
+        { "num": 1, "isBooked": false },
+        { "num": 2, "isBooked": true },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": false },
+        { "num": 5, "isBooked": true },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": false },
+        { "num": 8, "isBooked": true }
+      ]
+    },
+    {
+      "id": 18,
+      "number": "018",
+      "start": "jaipur",
+      "destination": "delhi",
+      "ac": true,
+      "date": "03/07/2023",
+      "duration": "4hr",
+      "image": "https://example.com/bus3.jpg",
+      "seats": [
+        { "num": 1, "isBooked": true },
+        { "num": 2, "isBooked": false },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": true },
+        { "num": 5, "isBooked": false },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": true },
+        { "num": 8, "isBooked": false }
+      ]
+    },
+    {
+      "id": 19,
+      "number": "019",
+      "start": "varansi",
+      "destination": "jaipur",
+      "ac": true,
+      "date": "02/07/2023",
+      "duration": "3hr",
+      "image": "https://example.com/bus1.jpg",
+      "seats": [
+        { "num": 1, "isBooked": false },
+        { "num": 2, "isBooked": true },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": false },
+        { "num": 5, "isBooked": true },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": false },
+        { "num": 8, "isBooked": true }
+      ]
+    },
+    {
+      "id": 20,
+      "number": "020",
+      "start": "delhi",
+      "destination": "mumbai",
+      "ac": true,
+      "date": "02/07/2023",
+      "duration": "3hr",
+      "image": "https://example.com/bus2.jpg",
+      "seats": [
+        { "num": 1, "isBooked": false },
+        { "num": 2, "isBooked": true },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": false },
+        { "num": 5, "isBooked": true },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": false },
+        { "num": 8, "isBooked": true }
+      ]
+    },
+    {
+      "id": 21,
+      "number": "021",
+      "start": "jaipur",
+      "destination": "delhi",
+      "ac": true,
+      "date": "03/07/2023",
+      "duration": "4hr",
+      "image": "https://example.com/bus3.jpg",
+      "seats": [
+        { "num": 1, "isBooked": true },
+        { "num": 2, "isBooked": false },
+        { "num": 3, "isBooked": true },
+        { "num": 4, "isBooked": true },
+        { "num": 5, "isBooked": false },
+        { "num": 6, "isBooked": true },
+        { "num": 7, "isBooked": true },
+        { "num": 8, "isBooked": false }
+      ]
+    } 
   ]
 }
